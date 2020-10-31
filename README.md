@@ -6,3 +6,4 @@ In recent years, Deep Learning (DL) techniques applied to steganalysis have surp
 
  - "Entrenamiento_redes.ipynb" contains the CNN implementations in TensorFlow.
  - "SRM_Kernels.npy" is the NumPy Array file containing the 30 filters used in the preprocessing stage.
+ - Folder "Databases"
