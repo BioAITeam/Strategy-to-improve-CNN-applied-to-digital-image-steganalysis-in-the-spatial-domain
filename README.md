@@ -8,9 +8,9 @@
 
 ## Files
 
- - **CNN_Implementation_evaluation.ipynb** CNN implementations in TensorFlow.
+ - **CNN_Implementation_Evaluation.ipynb** CNN implementations in TensorFlow.
  - **SRM_Kernels.npy** NumPy Array file containing the 30 filters used in the preprocessing stage.
- - **Ye-Net.jpg** Comparison of Ye-Net architecture with and without the strategy.
+ - **YeNet.jpg** Comparison of Ye-Net architecture with and without the strategy.
  - **Trained Models** Folder that contains the best trained model for each architecture in *hdf5* format.
  - **requirements**
 
