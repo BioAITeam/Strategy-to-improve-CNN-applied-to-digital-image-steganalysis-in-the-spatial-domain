@@ -14,7 +14,7 @@
 
  - **YeNet.jpg** Comparison of Ye-Net architecture with and without the strategy.
  
-## requirements
+## Requirements
 This repository requires the following libraries and frameworks:
 
 - TensorFlow 
