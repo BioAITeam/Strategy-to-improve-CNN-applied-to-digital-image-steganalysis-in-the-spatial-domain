@@ -48,6 +48,12 @@ conda install -c conda-forge matplotlib
 conda install -c jmcmurray os
 conda install -c conda-forge time
 ```
+## Execution
+After installing all the Requirements, you must clone the repository of the current version of GBRAS_SW using.
+```
+git clone https://github.com/BioAITeam/
+Strategy-to-improve-CNN-applied-to-digital-image-steganalysis-in-the-spatial-domain.git
+```
 
 ## Databases
 
