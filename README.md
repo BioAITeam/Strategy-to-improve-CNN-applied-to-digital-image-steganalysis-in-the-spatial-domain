@@ -6,10 +6,10 @@
 
 <p align="center">The architecture in the top represents original Ye-Net, the one in the bottom </br> represents the architecture using the strategy </p>
 
+## Folders
+
 ## Files
 
- - **CNN_Implementation_Evaluation.ipynb** CNN implementations in TensorFlow.
- - **SRM_Kernels.npy** NumPy Array file containing the 30 filters used in the preprocessing stage.
  - **YeNet.jpg** Comparison of Ye-Net architecture with and without the strategy.
  - **Trained Models** Folder that contains the best trained model for each architecture in *hdf5* format.
  - **requirements**
