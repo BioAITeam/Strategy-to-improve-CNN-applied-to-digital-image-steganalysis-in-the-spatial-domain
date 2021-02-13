@@ -15,6 +15,17 @@
  - **YeNet.jpg** Comparison of Ye-Net architecture with and without the strategy.
  
 ## requirements
+This repository requires the following libraries and frameworks:
+
+- TensorFlow 
+- numPy 
+- OpenCV 
+- Matplotlib
+- time
+- random
+- os
+
+This repository was developed in the Python3 (3.8) programming language.
 
 ## Databases
 
