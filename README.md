@@ -27,7 +27,7 @@ This repository requires the following libraries and frameworks:
 
 This repository was developed in the Python3 (3.8) programming language.
 
-## Package installation:
+## Package installation
 
 if you don't use google colab, We highly recommend to use and install Python packages within an Anaconda enviroment. To create, execute the command below:
 ```
