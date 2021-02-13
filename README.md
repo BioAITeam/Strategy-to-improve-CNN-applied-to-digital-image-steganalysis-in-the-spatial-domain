@@ -7,11 +7,10 @@
 <p align="center">The architecture in the top represents original Ye-Net, the one in the bottom </br> represents the architecture using the strategy </p>
 
 ## Folders
-
+- **CNNs and SRM filters** This folder contains the notebooks Xu-Net, Ye-Net, Yedroudj-Net, Vgg16Stego, and Vgg19Stego architectures for steganographic images in the spatial domain. 
 ## Files
 
  - **YeNet.jpg** Comparison of Ye-Net architecture with and without the strategy.
- - **Trained Models** Folder that contains the best trained model for each architecture in *hdf5* format.
  - **requirements**
 
 ## Databases
