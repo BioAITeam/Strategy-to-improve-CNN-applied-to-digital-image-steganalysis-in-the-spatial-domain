@@ -60,7 +60,7 @@ if you are going to use your computer, install:
 ```
 conda install jupyter 
 ```
-Enter the cloned folder, then enter the "CNNs and SRM filters" folder and run the choice notebook.
+Enter the cloned folder, then enter the "CNNs and SRM filters" folder and run the notebook of your choice.
  
 
 
