@@ -7,11 +7,14 @@
 <p align="center">The architecture in the top represents original Ye-Net, the one in the bottom </br> represents the architecture using the strategy </p>
 
 ## Folders
-- **CNNs and SRM filters** This folder contains the notebooks Xu-Net, Ye-Net, Yedroudj-Net, Vgg16Stego, and Vgg19Stego architectures for steganographic images in the spatial domain. 
+
+- **CNNs and SRM filters** This folder contains the notebooks Xu-Net, Ye-Net, Yedroudj-Net, Vgg16Stego, and Vgg19Stego architectures for steganographic images in the spatial domain. Also, it contains the SRMfilters.npy, which are used in the feature extraction stage of CNNs.
+
 ## Files
 
  - **YeNet.jpg** Comparison of Ye-Net architecture with and without the strategy.
- - **requirements**
+ 
+## requirements
 
 ## Databases
 
