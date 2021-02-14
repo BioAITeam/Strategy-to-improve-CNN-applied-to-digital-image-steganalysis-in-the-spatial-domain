@@ -12,7 +12,7 @@
 
 ## Files
 
- - **YeNet.jpg** Comparison of Ye-Net architecture with and without the strategy.
+ - **Ye-Net.svg** Comparison of Ye-Net architecture with and without the strategy.
  
 ## Requirements
 This repository requires the following libraries and frameworks:
