@@ -6,6 +6,30 @@
 
 <p align="center">The architecture in the top represents original Ye-Net, the one in the bottom </br> represents the architecture using the strategy </p>
 
+## Citing
+
+If you use our project for your research or if you find this paper and repository helpful, please consider citing the work:
+
+Tabares-Soto R, Arteaga-Arteaga HB, Mora-Rubio A, Bravo-Ortíz MA, Arias-Garzón D, Alzate Grisales JA, Burbano Jacome A, Orozco-Arias S, Isaza G, Ramos Pollan R. 2021. Strategy to improve the accuracy of convolutional neural network architectures applied to digital image steganalysis in the spatial domain. PeerJ Computer Science 7:e451 [https://doi.org/10.7717/peerj-cs.451](https://doi.org/10.7717/peerj-cs.451)
+
+```
+@article{10.7717/peerj-cs.451,
+ title = {Strategy to improve the accuracy of convolutional neural network architectures applied to digital image steganalysis in the spatial domain},
+ author = {Tabares-Soto, Reinel and Arteaga-Arteaga, Harold Brayan and Mora-Rubio, Alejandro and Bravo-Ortíz, Mario Alejandro and Arias-Garzón, Daniel and Alzate Grisales, Jesús Alejandro and Burbano Jacome, Alejandro and Orozco-Arias, Simon and Isaza, Gustavo and Ramos Pollan, Raul},
+ year = 2021,
+ month = apr,
+ keywords = {Convolutional neural network, Deep learning, Steganalysis, Strategy},
+ volume = 7,
+ pages = {e451},
+ journal = {PeerJ Computer Science},
+ issn = {2376-5992},
+ url = {https://doi.org/10.7717/peerj-cs.451},
+ doi = {10.7717/peerj-cs.451}
+}
+```
+
+This paper was published as a journal paper in IEEE Access. ([Webpage](https://peerj.com/articles/cs-451/))
+
 ## Folders
 
 - **CNNs and SRM filters** This folder contains the notebooks Xu-Net, Ye-Net, Yedroudj-Net, Vgg16Stego, and Vgg19Stego architectures for steganographic images in the spatial domain. Also, it contains the SRMfilters.npy, which are used in the feature extraction stage of CNNs.
@@ -64,6 +88,7 @@ Enter the cloned folder, then enter the "CNNs and SRM filters" folder and run th
 
 ## Note 
 Before running the notebook, please verify that the file paths are correct.
+
 ## Databases
 
 The data set used to reproduce the results can be downloaded from this <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">link</a>. Images taken from: <a href="http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials">BOSS competition</a> and <a href="http://bows2.ec-lille.fr/index.php?mode=VIEW&tmpl=index1">BOWS2</a>.
